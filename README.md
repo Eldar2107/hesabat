@@ -1,27 +1,20 @@
+# 💰 Personal Budget Management System
 
-# 💰 Şəxsi Büdcə İdarəetmə Sistemi / Personal Budget Management System
+A console-based personal finance tracking application written in Python, utilizing Object-Oriented Programming (OOP) principles.
 
-[🇺🇿 Azərbaycan Dili](#azərbaycan-dili) | [🇬🇧 English](#english)
+## 🚀 Features
+- **Income & Expense Tracking:** Record your financial transactions easily with custom descriptions.
+- **Automated Balance:** Your balance updates automatically based on entries (secured via Encapsulation).
+- **File Persistence (`transactions.txt`):** Data is automatically saved to a text file so it persists across sessions.
+- **Date-Range Filtering:** Filter transactions between specific dates (`YYYY-MM-DD`).
+- **Reset Option:** Clear all data and reset the system balance when needed.
 
----
-
-## 🇺🇿 Azərbaycan Dili
-
-Python dilində yazılmış, Obyektyönümlü Proqramlaşdırma (OOP) prinsiplərindən istifadə edən konsol əsaslı şəxsi maliyyə izləmə tətbiqi.
-
-### 🚀 Xüsusiyyətlər
-- **Gəlir və Xərc Qeydiyyatı:** Maliyyə hərəkətlərinizi kateqoriyalara uyğun olaraq qeyd edin.
-- **Avtomatik Balans:** Balansınız daxil edilən məbləğlərə görə avtomatik hesablanır (Encapsulation prinsipi ilə qorunur).
-- **Fayl Dəstəyi (`transactions.txt`):** Məlumatlarınız avtomatik olaraq mətn faylında yadda saxlanılır və proqramı bağlayıb açdıqda silinmir.
-- **Tarix Aralığı ilə Filtrasiya:** İstədiyiniz tarixlər (`YYYY-MM-DD`) arasındakı əməliyyatları süzgəcdən keçirin.
-- **Cədvəli Sıfırlama:** Bütün məlumatları və faylı təmizləmək imkanı.
-
-### 🛠️ İstifadə olunan Texnologiyalar
+## 🛠️ Technologies Used
 * **Python 3.x**
-* Standart Kitabxanalar: `os`, `datetime` (Heç bir xarici paket tələb olunmur).
+* Standard Libraries: `os`, `datetime` (No external packages required).
 
-### ⚙️ Quraşdırma və İşlədilməsi
+## ⚙️ Installation & Usage
 
-1. Repozitoriyanı kompüterinizə klonlayın:
+1. Clone the repository:
    ```bash
    git clone [https://github.com/Eldar2107/hesabat.git](https://github.com/Eldar2107/hesabat.git)
