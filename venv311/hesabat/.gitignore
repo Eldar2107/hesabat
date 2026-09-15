@@ -1,0 +1,5 @@
+venv311/
+.idea/
+__pycache__/
+*.pyc
+transactions.txt
